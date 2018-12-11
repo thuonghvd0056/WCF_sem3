@@ -1,0 +1,6 @@
+C:\Users\Thuong\source\repos\EmployeeWCFService\EmployeeWCFService\bin\EmployeeWCFService.dll.config
+C:\Users\Thuong\source\repos\EmployeeWCFService\EmployeeWCFService\bin\EmployeeWCFService.dll
+C:\Users\Thuong\source\repos\EmployeeWCFService\EmployeeWCFService\bin\EmployeeWCFService.pdb
+C:\Users\Thuong\source\repos\EmployeeWCFService\EmployeeWCFService\obj\Debug\EmployeeWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Thuong\source\repos\EmployeeWCFService\EmployeeWCFService\obj\Debug\EmployeeWCFService.dll
+C:\Users\Thuong\source\repos\EmployeeWCFService\EmployeeWCFService\obj\Debug\EmployeeWCFService.pdb
